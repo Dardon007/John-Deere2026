@@ -11,7 +11,7 @@ Configuration standard de la machine :
 * Arrière : Contre-batteur à grand fil 
 
 Conditions de battage difficiles :
-* Remplacer le contre-batteur du milieu par un contre-batteur à grand fil.
+* Remplacez le contre-batteur du milieu par un contre-batteur à grand fil.
 
 > Cela augmente le battage.  
 * Remarque : Les contre-batteurs à mini barre ronde nº 3 doivent uniquement être utilisés 
@@ -19,7 +19,7 @@ dans des conditions difficiles lors de bourrages de contre-batteur, et lorsque
 les réglages machines ne suffisent plus. 
 
 
-Se reporter au livret d'entretien pour la procédure de mise à niveau et le 
+Reportez-vous au livret d'entretien pour la procédure de mise à niveau et le 
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
 
