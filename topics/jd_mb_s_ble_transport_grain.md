@@ -9,4 +9,4 @@ Réglages permettant d’optimiser le remplissage de la trémie à grain.
 * **Déflecteur (vis de remplissage de la trémie)** : réglable pour adapter la répartition du grain.
 
 * **Position illustrée** : chargement de la trémie décalé vers la droite.
-![Texte alternatif](image.png "Le titre de mon image")
+![../media/transport_grain.png](../media/transport_grain.png)

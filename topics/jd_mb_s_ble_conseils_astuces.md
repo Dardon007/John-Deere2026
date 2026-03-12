@@ -47,6 +47,4 @@
   * Installer des **plaques d’obturation**.
   * **Augmenter l’écartement du contre-batteur**.
   * **Réduire le régime du rotor**, tout en maintenant un battage efficace (**min. 800 tr/min**).
-![Texte alternatif](image.png "Le titre de mon image")
-![Texte alternatif](image.png "Le titre de mon image")
-![Texte alternatif](image.png "Le titre de mon image")
+  * ![../media/conseils_astuces.png](../media/conseils_astuces.png)
