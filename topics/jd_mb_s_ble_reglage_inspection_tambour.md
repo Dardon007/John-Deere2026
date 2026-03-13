@@ -5,8 +5,9 @@
 * Position du tambour avant : Poignée vers le bas
 * Vitesse de la chaîne du convoyeur : 32 dents pour les conditions de 
 récolte de blé normales et difficiles, 26 dents dans des conditions sèches.
+![Photo du réglage sur la machine](../media/S_hauteur_convoyeur.png)
 * Vitesse rapide par défaut. Par temps sec, abaisser la vitesse pour réduire
 l’endommagement de la paille et de réduire la charge du caisson. 
- 
+ ![Photo du réglage sur la machine](../media/S_vitesse_tambour.png)
 
 

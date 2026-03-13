@@ -22,6 +22,7 @@ les réglages machines ne suffisent plus.
 Reportez-vous au livret d'entretien pour la procédure de mise à niveau et le 
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
+![Les trois différents contre-batteurs](../media/S_contrebatteurs.png)
 
 ## Plaques d'obturation
 
@@ -34,6 +35,7 @@ Si le battage est insuffisant, installez les plaques dans l'ordre suivant, pour 
 | :--- | :--- |
 | **S660 et S670** | 1 → 4 → 5 → 2 → 3 |
 | **S680 à S690** | 1 → 2 → 3 → 4 → 5 |
+![Une plaque d'obturation placée sur un contre-batteur](../media/S_plaque_obturation.png)
 
 ## Grilles de séparation
 
@@ -45,10 +47,13 @@ d’assurer un flux constant de récolte via les organes de battage.
 Utilisez les couvercles de grille de séparation nº 2. Ils limitent la sortie de matière par l'extérieur du rotor. 
 
 **Avant d'installer les couvercles :** Tentez d'abord d'équilibrer la répartition en réglant les diviseurs des vis d'alimentation. 
+![Les différentes grilles de séparation](../media/S_grilles_separation.png)
 
 ## Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) 
 
 Le contre-batteur du batteur d'otons doit être en position fermée.
+
+![Le contre-batteur d'otons en photo et vue 3D](../media/S_batteur_otons.png)
 
 Les déflecteurs supérieurs du rotor doivent être en position standard. 
 
@@ -67,6 +72,8 @@ Conditions très sèches :
 
 > Ces réglages sont des points de départ. Dans des conditions de battage faciles, augmentez l'écartement du contre-batteur jusqu'à 30 mm pour préserver la qualité de paille.
 
+![Des indications sur le réglage des organes de battage](../media/S_reglages_organes_battage.png)
+
 ## Composants du caisson de nettoyage 
 
 ### Configuration du caisson de nettoyage
@@ -79,10 +86,14 @@ Pour plus de performances :
 
 > Trémie plus propre, réduction de la charge d'otons.
 
+![Les trois grilles à otons](../media/S_composants_caisson_nettoyage_1.png)
+
 ### Réglage des vis d'alimentation
 
 * **Diviseurs (n°1) :** À ajuster pour une répartition uniforme sur le caisson.
 * **Tôles de vis :** Relevez-les pour limiter la surcharge sur les côtés extérieurs.
+
+![Les diviseurs et les tôles](../media/S_composants_caisson_nettoyage_2.png)
 
 ## Réglages du caisson de nettoyage 
 
@@ -112,3 +123,5 @@ Pour plus de performances :
 | **Régime Ventilateur** | Débit élevé (10 t/ha) | 1250 tr/min |
 
 > Si vous utilisez une grille à otons hautes performance, augmentez le régime du ventilateur de 100 tr/min.
+> 
+![Illustration du fonctionnement de la grille à otons](../media/S_ouverture_grille_otons.png)
