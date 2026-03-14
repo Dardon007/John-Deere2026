@@ -11,6 +11,6 @@ Accéder au lien de GoHarvest sur YouTube pour consulter des vidéos détaillée
 
 (https://github.com/Dardon007/John-Deere2026/blob/main/media/Capture%20d'%C3%A9cran%202026-02-02%20123427.png)
 
-[https://www.youtube.com/watch?v=3KR77OTdNKU&list=PL1KGsSJ4C ](https://www.youtube.com/watch?v=3KR77OTdNKU&list=PL1KGsSJ4C Wk7jzH744F1bByhwXWAlxmFj )
+(https://www.youtube.com/watch?v=3KR77OTdNKU&list=PL1KGsSJ4C Wk7jzH744F1bByhwXWAlxmFj )
 
 
