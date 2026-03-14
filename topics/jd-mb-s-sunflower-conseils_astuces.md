@@ -5,4 +5,4 @@
 
 ![Illustrations](https://github.com/Dardon007/John-Deere2026/blob/main/media/Capture%20d'%C3%A9cran%202026-02-02%20123314.png)
 ![Illustrations2](https://github.com/Dardon007/John-Deere2026/blob/main/media/Capture%20d'%C3%A9cran%202026-02-02%20123403.png)
-![Illustrations3](https://github.com/Dardon007/John-Deere2026/blob/main/media/Capture%20d'%C3%A9cran%202026-02-02%20123403.png)
+![Illustrations3](https://github.com/Dardon007/John-Deere2026/blob/main/media/S_conseils_astuces.PNG)
