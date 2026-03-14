@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Sunflower</title>
-    <topicref href="jd_md_s_cover_page_sunflower.md" format="markdown"/>
+    <topicref href="jd_md_s_sunflower_cover_page.md" format="markdown"/>
     <topicref href="jd_mb_s_sunflower_preface.md" format="markdown"/>
     <topicref href="jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.md"
         format="markdown">
