@@ -2,28 +2,28 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Sunflower</title>
-    <topicref href="jd_md_s_sunflower_cover_page.md" format="markdown"/>
-    <topicref href="jd_mb_s_sunflower_preface.md" format="markdown"/>
-    <topicref href="jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.md"
+    <topicref href="../topics/jd_md_s_sunflower_cover_page.md" format="markdown"/>
+    <topicref href="../topics/jd_mb_s_sunflower_preface.md" format="markdown"/>
+    <topicref href="../topics/jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.md"
         format="markdown">
         <topicref
-            href="jd_mb_s_sunflower_hauteur_et_vitesse_de_la_chaine_du_tambour_du_convoyeur_d_alimentation.md"
+            href="../topics/jd_mb_s_sunflower_hauteur_et_vitesse_de_la_chaine_du_tambour_du_convoyeur_d_alimentation.md"
             format="markdown"/>
-        <topicref href="jd_mb_s_sunflower_vitesse_du_tambour_d_alimentation.md" format="markdown"/>
-        <topicref href="jd_mb_s_sunflower_contre_batteurs.md" format="markdown"/>
-        <topicref href="jd_mb_s_sunflower_plaques_d_obturation_du_contre_batteur.md"
+        <topicref href="../topics/jd_mb_s_sunflower_vitesse_du_tambour_d_alimentation.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_sunflower_contre_batteurs.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_sunflower_plaques_d_obturation_du_contre_batteur.md"
             format="markdown"/>
-        <topicref href="jd_mb_s_sunflower_repartition_grilles_de_separation.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_sunflower_repartition_grilles_de_separation.md" format="markdown"/>
         <topicref
-            href="jd_mb_s_sunflower_batteur_d_otons_et_deflecteurs_superieurs_reglables_suivant_equipement.md"
+            href="../topics/jd_mb_s_sunflower_batteur_d_otons_et_deflecteurs_superieurs_reglables_suivant_equipement.md"
             format="markdown"/>
-        <topicref href="jd-mb-sunflower-reglages-organes-battage.md" format="markdown"/>
-        <topicref href="jd-mb-s-sunflower.md" format="markdown"/>
-        <topicref href="jd_mb_s_sunflower_reglages_caisson.md" format="markdown"/>
-        <topicref href="jd-mb-s-sunflower-transport-grain.md" format="markdown"/>
-        <topicref href="jd-mb-sunflower-composants-systeme-residus.md" format="markdown"/>
-        <topicref href="jd-mb-s-sunflower-reglages-residus.md" format="markdown"/>
+        <topicref href="../topics/jd-mb-sunflower-reglages-organes-battage.md" format="markdown"/>
+        <topicref href="../topics/jd-mb-s-sunflower.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_sunflower_reglages_caisson.md" format="markdown"/>
+        <topicref href="../topics/jd-mb-s-sunflower-transport-grain.md" format="markdown"/>
+        <topicref href="../topics/jd-mb-sunflower-composants-systeme-residus.md" format="markdown"/>
+        <topicref href="../topics/jd-mb-s-sunflower-reglages-residus.md" format="markdown"/>
     </topicref>
-    <topicref href="jd-mb-s-sunflower-conseils_astuces.md" format="markdown"/>
-    <topicref href="jd-mb-s-sunflower-outils-liens.md" format="markdown"/>
+    <topicref href="../topics/jd-mb-s-sunflower-conseils_astuces.md" format="markdown"/>
+    <topicref href="../topics/jd-mb-s-sunflower-outils-liens.md" format="markdown"/>
 </map>

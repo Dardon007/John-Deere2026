@@ -5,4 +5,5 @@
         <mainbooktitle>Migration Moissonneuse-batteuse</mainbooktitle>
     </booktitle>
     <chapter href="jd_mb_s_ble.ditamap" format="ditamap"/>
+    <chapter href="maps/jd-mb-s-sunflower.ditamap" format="ditamap"/>
 </bookmap>
