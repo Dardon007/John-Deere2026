@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>"Blé"</title>
+    <topicref href="../topics/jd_mb_s_ble_reglage_inspection.md" format="markdown">
+        <topicref href="../topics/%20jd_mb_s_ble_nettoyage.md" format="markdown">
+            <topicref href="../topics/jd_mb_s_ble_reglage_inspection_tambour.md" format="markdown"/>
+        </topicref>
+        <topicref href="../topics/%20jd_mb_s_ble_battage.md" format="markdown">
+            <topicref href="../topics/jd_mb_s_ble_reglage_inspection_contrebatteur.md"
+                format="markdown"/>
+        </topicref>
+    </topicref>
+    <topicref href="../topics/%20jd_mb_s_ble_grain.md" format="markdown">
+        <topicref href="../topics/jd_mb_s_ble_transport_grain.md" format="markdown"/>
+    </topicref>
+    <topicref href="../topics/jd_mb_s_ble_residus.md" format="markdown">
+        <topicref href="../topics/jd_mb_s_ble_residus_composants.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_ble_reglage_residus.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_ble_r%C3%A9partition_residus.md" format="markdown"/>
+    </topicref>
+    <topicref href="../topics/jd_mb_s_ble_optimisation.md" format="markdown">
+        <topicref href="../topics/jd_mb_s_ble_conseils_astuces.md" format="markdown"/>
+    </topicref>
+    <topicref href="../topics/jd_mb_s_ble_ressources.md" format="markdown">
+        <topicref href="../topics/jd_mb_s_ble_outils_liens.md" format="markdown"/>
+    </topicref>
+</map>
