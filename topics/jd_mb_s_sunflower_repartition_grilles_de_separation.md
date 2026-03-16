@@ -8,4 +8,4 @@ au caisson de nettoyage est inégale. Ils permettent de réduire la quantité de
 matière sortant du rotor sur l'extérieur et donc de réduire la charge de 
 matière au caisson. 
 
-![Grilles de séparation](https://github.com/Dardon007/John-Deere2026/blob/main/media/S_grilles_separation.png?raw=true)
+![Grilles de séparation](../media/S_grilles_separation.png?raw=true)

@@ -7,4 +7,4 @@ l’endommagement de la paille et de réduire la charge du caisson. Dans les
 conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être 
 utilisé pour les petites céréales. 
 
-![Vitesse_tambour](https://github.com/Dardon007/John-Deere2026/blob/main/media/S_vitesse_tambour.png?raw=true)
+![Vitesse_tambour](../media/S_vitesse_tambour.png?raw=true)

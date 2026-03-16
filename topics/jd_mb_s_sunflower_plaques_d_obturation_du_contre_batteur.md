@@ -8,4 +8,4 @@ Les plaques d'obturation du contre-batteur n° 1 (BH84534) pour les contre
 batteurs à grand fil permettent de régler avec précision la distribution sur le caisson de nettoyage. En cas d'utilisation de contre-batteurs à barre ronde, 
 utiliser les plaques nº 2 (BH84535).
 
-![Plaque d'obturation](https://github.com/Dardon007/John-Deere2026/blob/main/media/S_plaque_obturation.png?raw=true)
+![Plaque d'obturation](../media/S_plaque_obturation.png?raw=true)

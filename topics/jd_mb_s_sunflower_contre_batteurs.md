@@ -9,4 +9,4 @@ Se reporter au livret d'entretien pour la procédure de mise à niveau et le
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
 
-![Contre-batteurs](https://github.com/Dardon007/John-Deere2026/blob/main/media/S_contrebatteurs.png?raw=true)
+![Contre-batteurs](../media/S_contrebatteurs.png?raw=true)
