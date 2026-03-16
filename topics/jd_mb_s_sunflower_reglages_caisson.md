@@ -4,4 +4,4 @@ Ouverture de la grille à otons – 14 mm – Débit normal  L'ouverture de la g
 
 L'utilisation du système Active Terrain Adjustment est très avantageuse, même sur terrain légèrement vallonné pour obtenir un échantillon de trémie optimal et gérer le volume d’otons. 
 
-[image]
+![../media/reglage_caisson_nettoyage.png](../media/reglage_caisson_nettoyage.png)
