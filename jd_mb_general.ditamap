@@ -2,6 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
-        <mainbooktitle></mainbooktitle>
+        <mainbooktitle>Migration Moissonneuse-batteuse</mainbooktitle>
     </booktitle>
+    <chapter href="jd_mb_s_ble.ditamap" format="ditamap"/>
 </bookmap>
