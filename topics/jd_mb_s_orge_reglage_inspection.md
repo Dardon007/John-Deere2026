@@ -1,6 +1,6 @@
-### Réglage et inspection de la moissonneuse-batteuse
+# Réglage et inspection de la moissonneuse-batteuse
 
-#### Hauteur du tambour et vitesse du convoyeur
+## Hauteur du tambour et vitesse du convoyeur
 
 * Position du tambour avant - Poignée vers le bas pour l'orge
 * Vitesse du convoyeur – 32 dents pour les conditions de récolte d'orge normales et difficiles, 26 dents dans des conditions sèches.
@@ -8,13 +8,13 @@
 ![Image hauteur du convoyeur](../media/hauteur_convoyeur.png)
 
 
-#### Vitesse du tambour d‘alimentation
+## Vitesse du tambour d‘alimentation
 
 Vitesse rapide pour les conditions normales et difficiles. Dans des conditions sèches et cassantes, la vitesse peut être abaissée afin de limiter l'endommagement de la paille et de réduire la charge du caisson.
 
 ![Image vitesse tambour](../media/S_vitesse_tambour.png)
 
-#### Contre-batteurs
+## Contre-batteurs
 
 Les contre-batteurs à petit fil nº 1 et à gros fil nº 2 sont recommandés pour les céréales et offrent les meilleures performances.
 
@@ -28,7 +28,7 @@ Se reporter au livret d'entretien pour la procédure de mise à niveau et le cal
 
 ![Image contre-batteurs](../media/S_contrebatteurs.png)
 
-#### Plaques d'obturation du contre-batteur
+## Plaques d'obturation du contre-batteur
 
 Des plaques d'obturation de contre-batteur ne seront probablement pas nécessaires en raison des performances de battage élevées du contre-batteur à petit fil et du rotor.
 
@@ -38,13 +38,13 @@ S'ils s'avèrent nécessaires, ils doivent être posés dans l'ordre suivant en 
 
 ![Image plaque d'obturation](../media/S_plaque_obturation.png)
 
-#### Grilles de séparation
+## Grilles de séparation
 
 S'assurer que les entretoises de la grille de séparation nº 1 se trouvent sur le rail pour l'orge. Cela permettra d’avoir les grilles en position haute, afin d’assurer un flux constant de récolte via les organes de battage. Utiliser les couvercles de grille de séparation nº 2 uniquement lorsque la répartition au caisson de nettoyage est inégale. Ils permettent de réduire la quantité de matière sortant du rotor sur l'extérieur. Avant de les poser, tenter d'obtenir une répartition uniforme du caisson de nettoyage en réglant les diviseurs des vis d'alimentation.
 
 ![Image grille de séparation](../media/grilles_separation.png)
 
-#### Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement)
+## Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement)
 
 Le contre-batteur du batteur d'otons doit être en position fermée (céréales). Si les céréales sont sujet à la “casse”, le contre-batteur peut également fonctionner en position ouverte (maïs).
 
@@ -56,7 +56,7 @@ NDLR/BM: pas assez spécifique à l'équipement ou à la céréale, changer él�
 
 Plutôt partisane d'avoir doc spécifique à chaque céréale parce que plsu intéressant pour usager de pouvoir info pour son cas particulier 
 
-#### Réglages des organes de battage
+## Réglages des organes de battage
 
 Le rotor doit être réglé sur un régime rapide.
 
@@ -75,7 +75,7 @@ Ces recommandations de réglages constituent un point de départ et devront prob
 ![Réglages organes de battage](../media/reglages_organes_battage.png)
 
 
-#### Composants du caisson de nettoyage
+## Composants du caisson de nettoyage
 
 La grille à otons universelle nº 1 et la grille à grain universelle nº 3 sont
 couramment utilisées. Il est possible de poser une grille à otons hautes
@@ -97,7 +97,7 @@ pour l'orge
 
 ![Composants](../media/composants.png)
 
-####  Réglages du caisson de nettoyage
+##  Réglages du caisson de nettoyage
 
 Ouverture de la grille à otons – 16 mm – Débit normal (SX70 à 6 t/ha)  
 Ouverture de la grille à otons – 18 mm – Débit élevé (SX90 à 8 t/ha)  
@@ -118,7 +118,7 @@ l'ouverture maximale.
 
 ![Réglages du caisson de nettoyage](../media/reglage_caisson_nettoyage.png)
 
-#### Transport du grain
+## Transport du grain
 
 Les couvercles de vis transversale doivent être en position relevée. Le
 déflecteur au niveau de la vis de remplissage de la trémie à grain peut être
@@ -128,7 +128,7 @@ permet de charger la trémie à grain plus à droite.
 
 ![Transport du grain](../media/transport_grain.png)
 
-#### Composants du système de résidus
+## Composants du système de résidus
 
 Les palettes incurvées nº 1 doivent être posées sur chaque deuxième
 segment de l’épandeur à disques Advanced PowerCast™. Le couvercle sous le
@@ -139,7 +139,7 @@ des andains et accélérer le séchage de la paille.
 
 ![Composants du système de résidus](../media/composants_systeme_residus.png)
 
-#### Réglages des résidus
+## Réglages des résidus
 
 Le régime du broyeur nº 1 doit être réglé sur élevé. Les contre-couteaux nº 2
 doivent être enclenchés uniquement si nécessaire afin d'éviter toute
