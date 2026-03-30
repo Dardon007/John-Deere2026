@@ -2,4 +2,23 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>JD_MB_S_orge</title>
+    <topicref href="../topics/jd_mb_s_orge_reglage_inspection.md" format="markdown">
+        <topicref href="../topics/jd_mb_s_orge_hauteur_tambour_vitesse_convoyeur.md"
+            format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_vitesse_tambour_alimentation.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglages_contre-batteurs.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglage_grille_obturation_contrebatteur.md"
+            format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglages_grilles_separation.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglages_batteur_otons_PBK.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglages_organes_battage.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_composants_caisson_nettoyage.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglages_caisson_nettoyage.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_transport_grain.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_composants_systeme_residus.md" format="markdown"/>
+        <topicref href="../topics/jd_mb_s_orge_reglage_residus.md" format="markdown"/>
+    </topicref>
+    <topicref href="../topics/jd_mb_s_orge_conseils_astuces.md" format="markdown"/>
+    <topicref href="../topics/jd_mb_s_orge_outils_liens.md" format="markdown"/>
+    <topicref href="../topics/jd_mb_s_orge_remarques.md" format="markdown"/>
 </map>
