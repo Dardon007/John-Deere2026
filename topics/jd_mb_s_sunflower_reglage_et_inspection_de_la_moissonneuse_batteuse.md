@@ -5,7 +5,7 @@
 - Position du tambour avant – poignée vers le haut pour les tournesols 
 - Vitesse du convoyeur d'alimentation – 26 dents pour les tournesols. 
 
-![hauteur_convoyeur](../media/hauteur_convoyeur.png?raw=true)
+![hauteur_convoyeur](../media/hauteur_convoyeur.png?)
 
 ## Vitesse du tambour d'alimentation
 
@@ -16,7 +16,7 @@ l’endommagement de la paille et de réduire la charge du caisson. Dans les
 conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être 
 utilisé pour les petites céréales. 
 
-![Vitesse_tambour](../media/S_vitesse_tambour.png?raw=true)
+![Vitesse_tambour](../media/S_vitesse_tambour.png?)
 
 
 ## Contre-batteurs
@@ -30,7 +30,7 @@ Se reporter au livret d'entretien pour la procédure de mise à niveau et le
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
 
-![Contre-batteurs](../media/S_contrebatteurs.png?raw=true)
+![Contre-batteurs](../media/S_contrebatteurs.png?)
 
 ## Plaques d'obturation du contre-batteur
 
@@ -42,7 +42,7 @@ Les plaques d'obturation du contre-batteur n° 1 (BH84534) pour les contre
 batteurs à grand fil permettent de régler avec précision la distribution sur le caisson de nettoyage. En cas d'utilisation de contre-batteurs à barre ronde, 
 utiliser les plaques nº 2 (BH84535).
 
-![Plaque d'obturation](../media/S_plaque_obturation.png?raw=true)
+![Plaque d'obturation](../media/S_plaque_obturation.png?)
 
 ## Grilles de séparation
 
@@ -54,13 +54,13 @@ au caisson de nettoyage est inégale. Ils permettent de réduire la quantité de
 matière sortant du rotor sur l'extérieur et donc de réduire la charge de 
 matière au caisson. 
 
-![Grilles de séparation](../media/S_grilles_separation.png?raw=true)
+![Grilles de séparation](../media/S_grilles_separation.png?)
 
 ## Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) 
 
 Le contre-batteur du batteur d'otons doit être en position ouverte (maïs). 
 
-![Batteur d'otons](../media/S_batteur_otons.png?raw=true)
+![Batteur d'otons](../media/S_batteur_otons.png?)
 
 Les déflecteurs supérieurs du rotor doivent être en position standard. Il est 
 possible de les placer en position avancée uniquement pour tenter de 
