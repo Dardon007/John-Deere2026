@@ -1,4 +1,4 @@
-# Rapport de modifications | Morgane Bodiou
+# Rapport de modifications | John Deere S - Orge | Morgane Bodiou
 ## Structure
 Les sections avaient déjà été regroupées pendant la dernière session en groupe. Pour faciliter le travail sur le dossier, j'ai supprimé les fichiers obsolètes de ma branche pour éviter de les modifier par erreur à la place du fichier final.
 

@@ -32,7 +32,7 @@ Vous devez créer un fichier : rapport_modifications_nom_prenom.md
 
 Ce fichier sera joint aux autres fichiers et disponibles à la racine de la map. Il doit présenter :
 
-    -            Les modifications réalisées (fichiers modifiés, nature des corrections (rédaction, structure, terminologie…)
+    -            Les modifications réalisées (fichiers modifiés, nature des corrections (rédaction, structure, terminologie…))
     -            Des explications sur vos choix de modifications.
 
 4. Publication WebHelp
