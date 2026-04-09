@@ -20,8 +20,8 @@ ouverture grille otons…)
 ## Conseils de récolte
 
 - Le volume de paille qui passe par la moissonneuse-batteuse a une
-influence considérable sur la productivité. Le rapport
-céréales/matière autre que grain a un impact très important sur
+influence considérable sur la productivité.
+- Le rapport céréales/matière autre que grain a un impact très important sur
 les performances de récolte.  
 - Une paille verte et humide rend le battage plus difficile.  
 - La partie basse des plantes a une teneur en humidité plus importante que le haut de la plante. La hauteur de chaumes a donc un impact important sur le

@@ -2,6 +2,8 @@
 ## Structure
 Les sections avaient déjà été regroupées pendant la dernière session en groupe. Pour faciliter le travail sur le dossier, j'ai supprimé les fichiers obsolètes de ma branche pour éviter de les modifier par erreur à la place du fichier final.
 
+Mis les réglages des organes de battage (reglage_inspection) à la suite de la partie 
+
 
 ## Ajouts
 - Pendant la phase de travail en groupe, nous avions convenu de retirer les préfaces. Je suis retournée sur le document et j'ai décidé de reprendre certains éléments de la préface pour apporter une ligne d'explications pour certaines sections.
@@ -19,6 +21,11 @@ machine
 - La partie "Conseils et Astuces" est:
 1. mal nommée, la préface indique qu'elle est censée aider l'utilisateur "à réaliser un réglage de précision de la machine."
 1. un bloc de texte. J'ai essayé autant que possible d'intégrer ces conseils aux instructions principales en les transformant en remarques voire en sections.
+
+- Transformé Réglages du caisson de nettoyage en tableau (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
+- De souvenir pendant Redactech les instructions de traitement en HTML causaient des problèmes pendant la transformation sur Oxygen, raison pour laquelle je n'ai pas essayé pour ce dossier.
+
+- Transformé certaines sections avec très peu de texte et de syntaxe en instructions.
 
 ## Corrections linguistiques
 

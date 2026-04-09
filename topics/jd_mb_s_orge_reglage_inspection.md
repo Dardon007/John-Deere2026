@@ -2,7 +2,7 @@
 Il est important de régler la mosissonneuse-batteuse afin d'éviter des pertes de grains piégés dans la couche de menue paille sur la grille à otons car le grain moins lisse que le blé reste bloqué dans la menue paille.  
 ## Hauteur du tambour et vitesse du convoyeur
 
-* Position du tambour avant - Poignée vers le bas pour l'orge
+* Position du tambour avant | Poignée vers le bas pour l'orge
 * Vitesse du convoyeur – 32 dents pour les conditions de récolte d'orge normales et difficiles, 26 dents dans des conditions sèches.
 
 ![Image hauteur du convoyeur](../media/hauteur_convoyeur.png)
@@ -106,25 +106,26 @@ pour l'orge
 
 ##  Réglages du caisson de nettoyage
 
-| Paramètre à régler | Réglage à effectuer | Débit |
-|---|---|---|
-|Ouverture de la grille à otons | 16 mm | Débit normal (SX70 à 6 t/ha) | 
-| Ouverture de la grille à otons | 18 mm | Débit élevé (SX90 à 8 t/ha) | 
 
-L'ouverture de la grille à otons doit être supérieure de 2 mm en cas de pose de la grille à otons hautes performances  
-|---|---|---|
-| Extension de la grille à otons | 5 mm | Sur terrain plat  
-Extension de la grille à otons – 10 mm – À flanc de coteau  
-Ouverture de la grille à grain – 6 mm – Débit normal (SX70 à 6 t/ha)  
-Ouverture de la grille à grain – 9 mm – Débit élevé (SX90 à 8 t/ha)  
-L'ouverture de la grille à grain doit être supérieure de 1 mm en cas de pose
-de la grille à otons hautes performances  
-Régime du ventilateur – 950 tr/min - Débit normal (SX70 à 6 t/ha)  
-Régime du ventilateur – 1050 tr/min - Débit élevé (SX90 à 8 t/ha)  
-Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à
-otons hautes performances  
-Suivant équipement, la pré-grille à otons réglable doit être réglée sur
+- L'ouverture de la grille à grain doit être supérieure de 1 mm en cas de pose
+de la grille à otons hautes performances.
+- L'ouverture de la grille à otons doit être supérieure de 2 mm en cas de pose de la grille à otons hautes performances.
+- Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à
+otons hautes performances.  
+- Suivant l'équipement, la pré-grille à otons réglable doit être réglée sur
 l'ouverture maximale.
+
+Voir le tableau suivant pour les paramètres recommandés : 
+| Paramètre à régler | Réglage à effectuer | C |
+|---|---|---|
+| Ouverture de la grille à otons | 16 mm | Débit normal (SX70 à 6 t/ha) | 
+| Ouverture de la grille à otons | 18 mm | Débit élevé (SX90 à 8 t/ha) | 
+| Extension de la grille à otons | 5 mm | Sur terrain plat  | 
+| Extension de la grille à otons | 10 mm | À flanc de coteau  | 
+| Ouverture de la grille à grain | 6 mm | Débit normal (SX70 à 6 t/ha)  |
+| Ouverture de la grille à grain | 9 mm |  Débit élevé (SX90 à 8 t/ha) | 
+| Régime du ventilateur | 950 tr/min | Débit normal (SX70 à 6 t/ha) | 
+| Régime du ventilateur | 1050 tr/min | Débit élevé (SX90 à 8 t/ha) |
 
 ![Réglages du caisson de nettoyage](../media/reglage_caisson_nettoyage.png)
 
