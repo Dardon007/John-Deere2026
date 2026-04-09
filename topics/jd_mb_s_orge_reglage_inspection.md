@@ -104,6 +104,25 @@ pour l'orge
 
 ![Composants](../media/composants.png)
 
+### Réglages adjacents pour préserver le caisson de nettoyage
+>**Important :** Assurez-vous que la répartition de la matière est uniforme sur le
+caisson de nettoyage. Pour ce faire,
+effectuez un STOP de la machine pendant la récolte (pour la
+procédure d’arrêt, demandez conseil à votre concessionaire)
+
+- De la paille très sèche et cassante peut entraîner une surcharge
+du caisson de nettoyage. Pour limiter ce problème, monter des
+plaques d’obturation, agrandir l'écartement du contre-batteur et
+ralentir le rotor à un régime ou le battage est effectué. (min. 800
+tr/min).
+- Pour équilibrer la répartion, réalisez des ajustements
+au niveau des diviseurs et des vis d'alimentation. Des couvercles
+peuvent être installés sur les grilles de separation du
+contrebatteur.  
+- Dans des conditions de faible rendement, des largeurs d'unité de
+récolte et des vitesses de déplacement plus importantes permettent de maintenir la machine "chargée" pour permettre le
+battage.  
+
 ##  Réglages du caisson de nettoyage
 
 Ouverture de la grille à otons – 16 mm – Débit normal (SX70 à 6 t/ha)  
