@@ -1,4 +1,8 @@
 # Rapport de modifications | John Deere S - Orge | Morgane Bodiou
+
+To-do:
+- Transformer sections avec peu de syntaxe en instructions
+
 ## Structure
 Les sections avaient déjà été regroupées pendant la dernière session en groupe. Pour faciliter le travail sur le dossier, j'ai supprimé les fichiers obsolètes de ma branche pour éviter de les modifier par erreur à la place du fichier final.
 
@@ -24,8 +28,6 @@ machine
 
 - Transformé Réglages du caisson de nettoyage en tableau (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
 - De souvenir pendant Redactech les instructions de traitement en HTML causaient des problèmes pendant la transformation sur Oxygen, raison pour laquelle je n'ai pas essayé pour ce dossier.
-
-- Transformé certaines sections avec très peu de texte et de syntaxe en instructions.
 
 ## Corrections linguistiques
 
