@@ -1,4 +1,4 @@
-# Conseils et astuces
+# Pour aller plus loin…
 
 • Les variétés difficiles à battre exigent une configuration agressive
 des organes de battage, avec par exemple des écartements de
