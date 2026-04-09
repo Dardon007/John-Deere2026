@@ -69,11 +69,11 @@ Le rotor doit être réglé sur un régime rapide.
 
 
 
-| Paramètre à régler | Réglage à effectuer | Conditions |
+| Paramètre à régler | Réglage à effectuer | Conditions de battage|
 |---|---|---|
 | Régime du rotor | 830 tr/min | Conditions sèches et cassantes |
 | Régime du rotor | 930 tr/min | Conditions normales et difficiles |
-| Écartement du contre-batteur| 25 mm |Conditions de battage sèches et faciles |
+| Écartement du contre-batteur| 25 mm |Conditions sèches et faciles |
 | Écartement du contre-batteur | 13 mm | Conditions normales et difficiles |
 
 
@@ -104,7 +104,31 @@ pour l'orge
 
 ![Composants](../media/composants.png)
 
-### Réglages adjacents pour préserver le caisson de nettoyage
+##  Réglages du caisson de nettoyage
+
+| Paramètre à régler | Réglage à effectuer | Débit |
+|---|---|---|
+|Ouverture de la grille à otons | 16 mm | Débit normal (SX70 à 6 t/ha) | 
+| Ouverture de la grille à otons | 18 mm | Débit élevé (SX90 à 8 t/ha) | 
+
+L'ouverture de la grille à otons doit être supérieure de 2 mm en cas de pose de la grille à otons hautes performances  
+|---|---|---|
+| Extension de la grille à otons | 5 mm | Sur terrain plat  
+Extension de la grille à otons – 10 mm – À flanc de coteau  
+Ouverture de la grille à grain – 6 mm – Débit normal (SX70 à 6 t/ha)  
+Ouverture de la grille à grain – 9 mm – Débit élevé (SX90 à 8 t/ha)  
+L'ouverture de la grille à grain doit être supérieure de 1 mm en cas de pose
+de la grille à otons hautes performances  
+Régime du ventilateur – 950 tr/min - Débit normal (SX70 à 6 t/ha)  
+Régime du ventilateur – 1050 tr/min - Débit élevé (SX90 à 8 t/ha)  
+Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à
+otons hautes performances  
+Suivant équipement, la pré-grille à otons réglable doit être réglée sur
+l'ouverture maximale.
+
+![Réglages du caisson de nettoyage](../media/reglage_caisson_nettoyage.png)
+
+## Réglages pour préserver le caisson de nettoyage
 >**Important :** Assurez-vous que la répartition de la matière est uniforme sur le
 caisson de nettoyage. Pour ce faire,
 effectuez un STOP de la machine pendant la récolte (pour la
@@ -122,27 +146,6 @@ contrebatteur.
 - Dans des conditions de faible rendement, des largeurs d'unité de
 récolte et des vitesses de déplacement plus importantes permettent de maintenir la machine "chargée" pour permettre le
 battage.  
-
-##  Réglages du caisson de nettoyage
-
-Ouverture de la grille à otons – 16 mm – Débit normal (SX70 à 6 t/ha)  
-Ouverture de la grille à otons – 18 mm – Débit élevé (SX90 à 8 t/ha)  
-L'ouverture de la grille à otons doit être supérieure de 2 mm en cas de pose
-de la grille à otons hautes performances  
-Extension de la grille à otons – 5 mm – Sur terrain plat  
-Extension de la grille à otons – 10 mm – À flanc de coteau  
-Ouverture de la grille à grain – 6 mm – Débit normal (SX70 à 6 t/ha)  
-Ouverture de la grille à grain – 9 mm – Débit élevé (SX90 à 8 t/ha)  
-L'ouverture de la grille à grain doit être supérieure de 1 mm en cas de pose
-de la grille à otons hautes performances  
-Régime du ventilateur – 950 tr/min - Débit normal (SX70 à 6 t/ha)  
-Régime du ventilateur – 1050 tr/min - Débit élevé (SX90 à 8 t/ha)  
-Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à
-otons hautes performances  
-Suivant équipement, la pré-grille à otons réglable doit être réglée sur
-l'ouverture maximale.
-
-![Réglages du caisson de nettoyage](../media/reglage_caisson_nettoyage.png)
 
 ## Transport du grain
 
