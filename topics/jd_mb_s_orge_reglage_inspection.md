@@ -1,34 +1,39 @@
 # Réglage et inspection de la moissonneuse-batteuse
-Il est important de régler la mosissonneuse-batteuse afin d'éviter des pertes de grains piégés dans la couche de menue paille sur la grille à otons car le grain moins lisse que le blé reste bloqué dans la menue paille.  
+Il est important de régler la mosissonneuse-batteuse afin d'éviter des pertes de grains piégés dans la couche de menue paille sur la grille à otons car le grain moins lisse que le blé peut rester bloqué dans la menue paille.  
 ## Hauteur du tambour et vitesse du convoyeur
-
-* Position du tambour avant | Poignée vers le bas pour l'orge
-* Vitesse du convoyeur – 32 dents pour les conditions de récolte d'orge normales et difficiles, 26 dents dans des conditions sèches.
+Pour régler la hauteur du tambour et la vitesse du convoyeur :
+1. Réglez la position du tambour avant en positionnant la poignée vers le bas pour l'orge.
+1. Réglez la vitesse du convoyeur.
+* Dans des conditions de récolte d'orge normales ou difficiles : 32 dents.
+* Dans des conditions sèches : 26 dents
 
 ![Image hauteur du convoyeur](../media/hauteur_convoyeur.png)
 
 
 ## Vitesse du tambour d‘alimentation
 
-Vitesse rapide pour les conditions normales et difficiles. Dans des conditions sèches et cassantes, la vitesse peut être abaissée afin de limiter l'endommagement de la paille et de réduire la charge du caisson.
+* Privilégiez une vitesse rapide pour les conditions normales et difficiles.
+
+* Dans des conditions sèches et cassantes, la vitesse peut être abaissée afin de limiter l'endommagement de la paille et de réduire la charge du caisson.
 
 ![Image vitesse tambour](../media/S_vitesse_tambour.png)
 
 ## Contre-batteurs
-
-Les contre-batteurs à petit fil nº 1 et à gros fil nº 2 sont recommandés pour les céréales et offrent les meilleures performances.
-
 La configuration standard de la machine comporte un contre-batteur à petit fil à l'avant, un contre-batteur à petit fil au milieu et un contre-batteur à grand fil à l'arrière.
+
+> - **Important:** Reportez-vous au livret d'entretien pour la procédure de mise à niveau et le calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour l'écartement par rapport aux éléments de battage.
+
+
+- Pour les céréales, les contre-batteurs à petit fil nº 1 et à gros fil nº 2 offrent les meilleures performances et sont recommandés.
 
 Dans des conditions de battage difficiles, le contre-batteur du milieu peut être remplacé par un contre-batteur à grand fil pour augmenter le battage.
 
 Les contre-batteurs à mini barre ronde nº 3 doivent uniquement être utilisés dans des conditions difficiles lors de bourrages de contre-batteur, et lorsque les réglages machines ne suffisent plus.
 
-Se reporter au livret d'entretien pour la procédure de mise à niveau et le calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour l'écartement par rapport aux éléments de battage.
 
 ![Image contre-batteurs](../media/S_contrebatteurs.png)
 
-> **Remarque :** Les variétés difficiles à battre exigent une configuration agressive
+> - **Remarque :** Les variétés difficiles à battre exigent une configuration agressive
 des organes de battage. Pour ces variétés, les écartements de
 contre-batteur pouvant descendre jusqu'à 5mm, en utilisant de surcroît des contre-batteurs à petit fil et des plaques d’obturation. Si les épis d'orge
 ne sont pas complètement battus ou si les barbes restent sur le
