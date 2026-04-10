@@ -36,6 +36,7 @@ menue paille sur la grille à otons ont de fortes chances d’être
 perdus, car le grain moins lisse que le blé reste bloqué dans la
 menue paille. Un battage correct permet d'éviter cela." --> Ce conseil est passé en introduction de orge_reglage_inspection avec une grosse reformulation pour modifier le ton.
 - Faute d'accord (masculin-féminin) dans les réglages des grilles de séparation. Je pense que le doc est une traduction automatique.
+-  "Le régime du ventilateur doit être supérieur de 100 tr/min" --> supérieur à, c'est le cas dans toute une liste (réglages caisson nettoyage)
 
 ## Remarque
 

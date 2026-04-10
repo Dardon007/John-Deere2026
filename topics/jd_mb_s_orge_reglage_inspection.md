@@ -124,16 +124,16 @@ tiges dans la grille. (voir manuels spécifiques au colza et au colza et de tour
 ##  Réglages du caisson de nettoyage
 
 
-- L'ouverture de la grille à grain doit être supérieure de 1 mm en cas de pose
-de la grille à otons hautes performances.
-- L'ouverture de la grille à otons doit être supérieure de 2 mm en cas de pose de la grille à otons hautes performances.
-- Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à
-otons hautes performances.  
+- L'ouverture de la grille à grain doit être supérieure à 1 mm en cas de pose
+de la grille à otons haute performance.
+- L'ouverture de la grille à otons doit être supérieure à 2 mm en cas de pose de la grille à otons haute performance.
+- Le régime du ventilateur doit être supérieur à 100 tr/min avec une grille à
+otons haute performance.  
 - Suivant l'équipement, la pré-grille à otons réglable doit être réglée sur
 l'ouverture maximale.
 
 Voir le tableau suivant pour les paramètres recommandés : 
-| Paramètre à régler | Réglage à effectuer | C |
+| Paramètre à régler | Réglage à effectuer | Conditions |
 |---|---|---|
 | Ouverture de la grille à otons | 16 mm | Débit normal (SX70 à 6 t/ha) | 
 | Ouverture de la grille à otons | 18 mm | Débit élevé (SX90 à 8 t/ha) | 
