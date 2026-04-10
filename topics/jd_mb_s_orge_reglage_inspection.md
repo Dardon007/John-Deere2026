@@ -25,10 +25,8 @@ La configuration standard de la machine comporte un contre-batteur à petit fil 
 
 
 - Pour les céréales, les contre-batteurs à petit fil nº 1 et à gros fil nº 2 offrent les meilleures performances et sont recommandés.
-
-Dans des conditions de battage difficiles, le contre-batteur du milieu peut être remplacé par un contre-batteur à grand fil pour augmenter le battage.
-
-Les contre-batteurs à mini barre ronde nº 3 doivent uniquement être utilisés dans des conditions difficiles lors de bourrages de contre-batteur, et lorsque les réglages machines ne suffisent plus.
+- Dans des conditions de battage difficiles, le contre-batteur du milieu peut être remplacé par un contre-batteur à grand fil pour augmenter le battage.
+- Les contre-batteurs à mini barre ronde nº 3 doivent uniquement être utilisés dans des conditions difficiles lors de bourrages de contre-batteur, et lorsque les réglages machines ne suffisent plus.
 
 
 ![Image contre-batteurs](../media/S_contrebatteurs.png)
@@ -44,11 +42,20 @@ efficacement.
 
 Des plaques d'obturation de contre-batteur ne seront probablement pas nécessaires en raison des performances de battage élevées du contre-batteur à petit fil et du rotor.
 
+> - **Important:** Reportez-vous au livret d'entretien pour la procédure de mise à niveau et le calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour l'écartement par rapport aux éléments de battage.
 
-
-S'ils s'avèrent nécessaires, ils doivent être posés dans l'ordre suivant en raison de la manière dont les retours des otons sont traités. Pour SX60 et SX70, positions 1, 4, 5, 2, 3. De SX80 à SX90, position 1, 2, 3, 4, 5.
+Si elles s'avèrent nécessaires, les plaques d'obturation de contre-batteur doivent être posées dans l'ordre présenté sur l'image en raison de la manière dont les retours des otons sont traités. 
 
 ![Image plaque d'obturation](../media/S_plaque_obturation.png)
+
+Ces positions sont différentes en fonction des modèles. Reportez-vous au tableau suivant :
+
+|Modèle|Ordre|
+|---|---|
+|SX60| positions 1, 4, 5, 2, 3. |
+|SX70| positions 1, 4, 5, 2, 3. |
+|SX80| positions 1, 2, 3, 4, 5. |
+|SX90| positions 1, 2, 3, 4, 5. |
 
 ## Grilles de séparation
 
