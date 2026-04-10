@@ -58,8 +58,12 @@ Ces positions sont différentes en fonction des modèles. Reportez-vous au table
 |SX90| positions 1, 2, 3, 4, 5. |
 
 ## Grilles de séparation
+Le réglage des grilles de séparation permet d'assurer une répartition uniforme de la matière dans le caisson de nettoyage :
+1. Assurez-vous que les entretoises de la grille de séparation nº 1 se trouvent sur le rail pour l'orge, en position haute. 
+> * Avoir les grilles en position haute permet d’assurer un flux constant de récolte via les organes de battage. 
 
-S'assurer que les entretoises de la grille de séparation nº 1 se trouvent sur le rail pour l'orge. Cela permettra d’avoir les grilles en position haute, afin d’assurer un flux constant de récolte via les organes de battage. Utiliser les couvercles de grille de séparation nº 2 uniquement lorsque la répartition au caisson de nettoyage est inégale. Ils permettent de réduire la quantité de matière sortant du rotor sur l'extérieur. Avant de les poser, tenter d'obtenir une répartition uniforme du caisson de nettoyage en réglant les diviseurs des vis d'alimentation.
+2. Tentez d'obtenir une répartition uniforme du caisson de nettoyage en réglant les diviseurs des vis d'alimentation. Essayez cette méthode avant de poser les couvercles de grilles de séparation.
+3. Utilisez les couvercles de grille de séparation nº 2 uniquement lorsque la répartition dans le caisson de nettoyage est inégale. Les couvercles de grilles de séparation permettent de réduire la quantité de matière sortant du rotor situé à l'extérieur.
 
 ![Image grille de séparation](../media/grilles_separation.png)
 
