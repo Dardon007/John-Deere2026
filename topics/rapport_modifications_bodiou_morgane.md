@@ -3,7 +3,12 @@
 ## Structure
 Les sections avaient déjà été regroupées pendant la dernière session en groupe. Pour faciliter le travail sur le dossier, j'ai supprimé les fichiers obsolètes de ma branche pour éviter de les modifier par erreur à la place du fichier final.
 
-Mis les réglages des organes de battage (reglage_inspection) à la suite de la partie 
+Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) --> spécifique à certains équipements, facultatif pour d'autres, mis à la fin du document
+
+- La partie "Conseils et Astuces" est:
+1. mal nommée, la préface indique qu'elle est censée aider l'utilisateur "à réaliser un réglage de précision de la machine."
+1. un bloc de texte. J'ai essayé autant que possible d'intégrer ces conseils aux instructions principales en les transformant en remarques voire en sections.
+1. Pour les conseils restants, je les ai séparés en 2 parties : conseils de réglage et conseils de récolte.
 
 
 ## Ajouts
@@ -19,10 +24,6 @@ pour obtenir des conseils supplémentaires de réglage de la part de la
 machine
 
 ## Modifications du contenu
-- La partie "Conseils et Astuces" est:
-1. mal nommée, la préface indique qu'elle est censée aider l'utilisateur "à réaliser un réglage de précision de la machine."
-1. un bloc de texte. J'ai essayé autant que possible d'intégrer ces conseils aux instructions principales en les transformant en remarques voire en sections.
-
 - Transformé Réglages du caisson de nettoyage et Grille de séparation en tableaux pour synthétiser les informations (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
 - De souvenir pendant Redactech les instructions de traitement en HTML causaient des problèmes pendant la transformation sur Oxygen, raison pour laquelle je n'ai pas essayé pour ce dossier.
 - Transformé sections avec peu de syntaxe en instructions

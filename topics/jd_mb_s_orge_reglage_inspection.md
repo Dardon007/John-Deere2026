@@ -150,7 +150,7 @@ Voir le tableau suivant pour les paramètres recommandés :
 >**Important :** Assurez-vous que la répartition de la matière est uniforme sur le
 caisson de nettoyage. Pour ce faire,
 effectuez un STOP de la machine pendant la récolte (pour la
-procédure d’arrêt, demandez conseil à votre concessionaire)
+procédure d’arrêt, référez-vous à la partie finale **Outils et liens** et demandez conseil à votre concessionaire).
 
 - De la paille très sèche et cassante peut entraîner une surcharge
 du caisson de nettoyage. Pour limiter ce problème, monter des
@@ -167,20 +167,25 @@ battage.
 
 ## Transport du grain
 
-Les couvercles de vis transversale doivent être en position relevée. Le
+* Les couvercles de vis transversales doivent être en position relevée. 
+* Le
 déflecteur au niveau de la vis de remplissage de la trémie à grain peut être
-réglé pour modifier le chargement de la trémie à grain. La position illustrée
-permet de charger la trémie à grain plus à droite.
+réglé pour modifier le chargement de la trémie à grain. 
+
+La position illustrée
+permet de charger la trémie à grain plus à droite :
 
 
 ![Transport du grain](../media/transport_grain.png)
 
 ## Composants du système de résidus
 
-Les palettes incurvées nº 1 doivent être posées sur chaque deuxième
-segment de l’épandeur à disques Advanced PowerCast™. Le couvercle sous le
+1. Les palettes incurvées nº 1 doivent être posées sur chaque deuxième
+segment de l’épandeur à disques Advanced PowerCast™. 
+1. Le couvercle sous le
 tambour d'alimentation nº 2 ne doit pas être posé, car il peut entraîner un
-enroulement lors de la récolte de petites céréales. Un ralentisseur de chute
+enroulement lors de la récolte de petites céréales. 
+1. Un ralentisseur de chute
 nº 3 est disponible pour la configuration Premium afin d'améliorer la forme
 des andains et accélérer le séchage de la paille.
 
@@ -188,15 +193,18 @@ des andains et accélérer le séchage de la paille.
 
 ## Réglages des résidus
 
-Le régime du broyeur nº 1 doit être réglé sur élevé. Les contre-couteaux nº 2
+1. Le régime du broyeur nº 1 doit être réglé sur élevé. 
+1. Les contre-couteaux nº 2
 doivent être enclenchés uniquement si nécessaire afin d'éviter toute
-consommation d'énergie inutile. Il est possible de poser une barre d'ancrage
+consommation d'énergie inutile. 
+1. Il est possible de poser une barre d'ancrage
 nº 3 sur le plancher du broyeur à coupe fine (44 couteaux) pour augmenter la
 qualité de broyage.
 
 ![Réglages des résidus](../media/reglages_residus.png)
 
-Le déflecteur de rafles nº 1 doit être en position relevée/céréales. Les ailettes
+1. Le déflecteur de rafles nº 1 doit être en position relevée/céréales. 
+2. Les ailettes
 du déflecteur arrière ou du volet de broyage/andainage nº 2 sont réglables
 afin d'améliorer la répartition des résidus.
 
