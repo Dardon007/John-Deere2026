@@ -28,7 +28,4 @@ les performances de récolte.
 débit de céréales.  (Plus la plante est haute, plus elle est sèche, et plus le battage s'effectue facilement.)
 
 
-
-
-
 ![Photos orge](../media/photos_orge.png)

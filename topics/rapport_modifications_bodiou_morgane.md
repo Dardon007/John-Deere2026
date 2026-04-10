@@ -23,6 +23,11 @@ de la moissonneuse-batteuse, (si équipé) doit également être utilisé
 pour obtenir des conseils supplémentaires de réglage de la part de la
 machine
 
+- Le lien dans Outils et liens avait été retiré pendant la phase de migration en groupe. Donc je l'ai remis. 
+1. J'ai hésité à le formater comme suit, avec un texte de remplacement : 
+> [Test Texte remplacement](https://www.youtube.com/watch?v=3KR77OTdNKU&list=PL1KGsSJ4CWk7jzH744F1bByhwXWAlxmFj)
+2. J'ai préféré ne pas le faire parce qu'avoir le lien directement permet d'y avoir accès même en imprimant la documentation ou en faisant des captures d'écran
+
 ## Modifications du contenu
 - Transformé Réglages du caisson de nettoyage et Grille de séparation en tableaux pour synthétiser les informations (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
 - De souvenir pendant Redactech les instructions de traitement en HTML causaient des problèmes pendant la transformation sur Oxygen, raison pour laquelle je n'ai pas essayé pour ce dossier.
