@@ -69,15 +69,11 @@ Le réglage des grilles de séparation permet d'assurer une répartition uniform
 
 ## Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement)
 
-Le contre-batteur du batteur d'otons doit être en position fermée (céréales). Si les céréales sont sujet à la “casse”, le contre-batteur peut également fonctionner en position ouverte (maïs).
+Le contre-batteur du batteur d'otons doit être en position fermée (céréales). Si les céréales sont sujet à la “casse”, le contre-batteur peut également fonctionner en position ouverte.
 
 ![Image batteur d'otons](../media/batteur_otons.png)
+
 Les déflecteurs supérieurs du rotor doivent être en position standard. En conditions très sèches ils peuvent être placés en position avancée pour améliorer la qualité de la paille et réduire la charge du caisson.
-
-
-NDLR/BM: pas assez spécifique à l'équipement ou à la céréale, changer éléments non spécifiques ou rendre le tout plus général pour faire une doc pour l'ensemble
-
-Plutôt partisane d'avoir doc spécifique à chaque céréale parce que plsu intéressant pour usager de pouvoir info pour son cas particulier 
 
 ## Réglages des organes de battage
 
@@ -100,25 +96,30 @@ Ces recommandations de réglages constituent un point de départ et devront prob
 
 ## Composants du caisson de nettoyage
 
-La grille à otons universelle nº 1 et la grille à grain universelle nº 3 sont
-couramment utilisées. Il est possible de poser une grille à otons hautes
-performances nº 2, qui permet d'obtenir un échantillon de trémie plus
-propre et une réduction de la charge d'otons lorsque que les performances
-sont limitées par le caisson de nettoyage
+### Grille à otons
+
+* La grille à otons universelle nº 1 et la grille à grain universelle nº 3 sont
+couramment utilisées. 
+* Si les performances sont limitées par le caisson de nettoyage, posez une grille à otons hautes performances nº 2 pour obtenir un échantillon de trémie plus
+propre et une réduction de la charge d'otons.
 
 ![Composants du caisson de nettoyage](../media/composants_caisson_nettoyage.png)
 
-Les diviseurs des vis d'alimentation nº 1 doivent être réglés pour obtenir une
-répartition uniforme du caisson de nettoyage. Le relevage des tôles permet
-de réduire la quantité de matière à l'extérieur. Il est également possible de
-poser une pré-grille à otons réglable nº 2, qui empêche l'accumulation de
-tiges dans la grille, lors de la récolte de colza et de tournesol. La pré-grille à
-ôtons réglable n'offre aucun avantage pour l'orge. L'extension de pré-grille à
-otons nº 3, n'est pas livrée avec les machines ZX et ne doit pas être posée
-pour l'orge
-
+### Diviseurs des vis d'alimentation
+- Les diviseurs des vis d'alimentation nº 1 doivent être réglés pour obtenir une
+répartition uniforme du caisson de nettoyage. 
+- Le relevage des tôles permet
+de réduire la quantité de matière à l'extérieur. 
 
 ![Composants](../media/composants.png)
+
+> - **Important :** L'extension de pré-grille à
+otons nº 3 n'est pas livrée avec les machines ZX et ne doit pas être posée
+pour l'orge.
+
+> - **Remarque :**  La pré-grille à
+ôtons réglable n° 2 n'offre aucun avantage pour l'orge. Dans d'autres types de culture, elle empêche l'accumulation de
+tiges dans la grille. (voir manuels spécifiques au colza et au colza et de tournesol.) 
 
 ##  Réglages du caisson de nettoyage
 

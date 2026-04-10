@@ -23,14 +23,28 @@ machine
 1. mal nommée, la préface indique qu'elle est censée aider l'utilisateur "à réaliser un réglage de précision de la machine."
 1. un bloc de texte. J'ai essayé autant que possible d'intégrer ces conseils aux instructions principales en les transformant en remarques voire en sections.
 
-- Transformé Réglages du caisson de nettoyage en tableau (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
+- Transformé Réglages du caisson de nettoyage et Grille de séparation en tableaux pour synthétiser les informations (NB: pas possible de créer un tableau sans en-tête en markdown seul, on doit utiliser html ou ajouter des en-têtes)
 - De souvenir pendant Redactech les instructions de traitement en HTML causaient des problèmes pendant la transformation sur Oxygen, raison pour laquelle je n'ai pas essayé pour ce dossier.
 - Transformé sections avec peu de syntaxe en instructions
 
+- Retiré informations spécifiques à d'autres céréales (partie batteurs d'otons notamment)
 
 ## Corrections linguistiques
 
 - "Lors de la récolte de l'orge, les grains piégés dans la couche de
 menue paille sur la grille à otons ont de fortes chances d’être
 perdus, car le grain moins lisse que le blé reste bloqué dans la
-menue paille. Un battage correct permet d'éviter cela." --> Ce conseil est passé en introduction de orge_reglage_inspection avec une grosse reformulation.
+menue paille. Un battage correct permet d'éviter cela." --> Ce conseil est passé en introduction de orge_reglage_inspection avec une grosse reformulation pour modifier le ton.
+- Faute d'accord (masculin-féminin) dans les réglages des grilles de séparation. Je pense que le doc est une traduction automatique.
+
+## Remarque
+
+J'ai utilisé * et - de manière interchangeable pour les listes à puces.  
+
+Idem pour les listes numérotées, où j'ai utilisé principalement 1. > 1. Dans les cas où j'insérais une remarque entre deux list items, j'ai préféré numéroter manuellement au cas où.
+
+J'ai inséré des mentions important et remarque qui se présentent comme suit:
+> - **Important :** Lorem ipsum
+
+
+> - **Remarque :** Lorem ipsum
