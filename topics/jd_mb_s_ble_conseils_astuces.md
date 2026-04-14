@@ -1,50 +1,70 @@
 # Conseils et astuces
 
-* **Identifier l’origine des pertes** : unité de récolte, organes de battage, caisson de nettoyage ou pertes avant moisson.
+## Avant de commencer la récolte
 
-* **Répartition de la matière** : assurer une **distribution uniforme sur le caisson de nettoyage**.
+### Facteurs influençant la récolte
 
-  * Vérifier en réalisant un **STOP machine pendant la récolte**.
-  * Ajuster les **diviseurs des vis d’alimentation** si nécessaire.
-  * Installer des **couvercles sur les grilles de séparation du contre-batteur** pour équilibrer la répartition.
+Évaluez les paramètres suivants avant de procéder à la récolte :
+* Type de culture,
+* Rigidité de la paille,
+* Volume de la paille,
+    * Le rapport grain / matière autre que grain impacte les performances.
+* Couleur de la paille,
+   * La paille verte rend le battage plus difficile.
+* Humidité de la paille,
+* Humidité de l'air,
+* Humidité de la plante.
+    * Augmente du sommet vers la base.
+    * Remarque : La hauteur de chaume influence le débit de récolte.
+    
+### Identifier l’origine des pertes
+Vérifiez les éléments suivants :
+   
+   * Unité de récolte, 
+   * Organes de battage,
+   * Caisson de nettoyage,
+   * Pertes avant moisson.
 
-* **Surcharge côté droit du caisson de nettoyage (conditions sèches)** :
+## Améliorer la productivité
 
-  * Relever complètement le **diviseur droit de la vis d’alimentation**.
-  * Installer des **plaques d’obturation côté droit du contre-batteur** si nécessaire.
-  * Maintenir la **grille à otons suffisamment ouverte**.
+### Répartition de la matière
+Objectif : Assurer une distribution uniforme sur le caisson de nettoyage.
 
-* **Variétés difficiles à battre** : utiliser une **configuration de battage agressive** :
+  1. Vérifiez en réalisant un STOP machine pendant la récolte.
 
-  * écartement du **contre-batteur jusqu’à 5 mm**,
-  * **contre-batteurs à petit fil**,
-  * **plaques d’obturation**.
+  2. Ajuster les diviseurs des vis d’alimentation si nécessaire.
 
-* **Influence des conditions de récolte** :
+  3. Installez des couvercles sur les grilles de séparation du contre-batteur pour équilibrer la répartition.
 
-  * Le **type de culture**, la **rigidité de la paille** et **l’humidité** influencent fortement les réglages.
-  * Évaluer ces paramètres **avant de commencer la récolte**.
+### Faible rendement :
 
-* **Volume de paille** : influence directe sur la **productivité de la machine**.
+* Utilisez une unité de récolte plus large.
+* Augmentez la vitesse d’avancement pour maintenir la machine chargée.
 
-  * Le **rapport grain / matière autre que grain (MOG)** impacte les performances.
+### Réglages cabine : 
+* Vérifiez régulièrement que les valeurs affichées correspondent aux valeurs réelles (ex. ouverture de grille).
 
-* **Paille verte et humide** : rend le **battage plus difficile**.
+## Cas particuliers et résolution de problèmes
 
-* **Humidité de la plante** : augmente **du sommet vers la base**.
+### Surcharge côté droit du caisson de nettoyage (temps sec) :
 
-  * La **hauteur de chaume** influence le **débit de récolte**.
+   * Relevez complètement le diviseur droit de la vis d’alimentation.
+   * Installez des plaques d’obturation côté droit du contre-batteur si nécessaire.
+   * La grille à ôtons doit être suffisamment ouverte.
 
-* **Faible rendement** :
 
-  * utiliser une **largeur d’unité de récolte plus grande**,
-  * augmenter la **vitesse d’avancement** pour maintenir la machine chargée.
+### Variétés difficiles à battre
+Utilisez la configuration de battage agressive suivante :
+* Écartement du contre-batteur jusqu’à 5 mm,
+* Contre-batteurs à petit fil,
+* Plaques d’obturation.
 
-* **Réglages cabine** : vérifier régulièrement que les **valeurs affichées correspondent aux valeurs réelles** (ex. ouverture de grille).
 
-* **Paille très sèche et cassante** : risque de **surcharge du caisson de nettoyage**.
 
-  * Installer des **plaques d’obturation**.
-  * **Augmenter l’écartement du contre-batteur**.
-  * **Réduire le régime du rotor**, tout en maintenant un battage efficace (**min. 800 tr/min**).
-  * ![../media/conseils_astuces.png](../media/conseils_astuces.png)
+### Paille très sèche et cassante 
+Risque de surcharge du caisson de nettoyage.
+
+   * Installez des plaques d’obturation.
+   * Augmentez l’écartement du contre-batteur.
+   * Réduisez le régime du rotor, tout en maintenant un battage efficace (min. 800 tr/min).
+   ![Photos promotionnelles de moissonneuses-batteuses dans des champs](../media/conseils_astuces.png)

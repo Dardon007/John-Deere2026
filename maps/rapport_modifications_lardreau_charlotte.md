@@ -11,3 +11,4 @@ Je suis également repassée sur les éléments que j'avais déjà modifiés pou
 
 Tout le long de mon travail, j'ai fait en sorte de n'inclure que les informations en rapport avec le blé. J'ai également réduit au maximum le texte, en simplifiant les phrases trop longues notamment.
 Pour réécrire au mieux certaines sections, notamment celle sur la gestion des résidus, j'ai eu besoin de faire des recherches pour essayer de comprendre ce qui était décrit.
+Pour la partie "Conseils et astuces", j'ai essayé d'épurer au maximum les différents points, en faisant des phrases plus courtes et en créant différentes sections. J'ai également réorganisé l'ordre des différents conseils en ajoutant des sosu-sections pour clarifier les différents types de conseils.
