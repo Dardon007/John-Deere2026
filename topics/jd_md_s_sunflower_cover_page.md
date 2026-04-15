@@ -1,6 +1,6 @@
 ## 1. Objectif de la documentation
 
-![image moissonneuse-batteuse](../media/s_sunflower_coverpage.png?raw=true)
+![image moissonneuse-batteuse](../media/s_sunflower_coverpage.png?)
 
 **John Deere Werke Zweibrücken**
 

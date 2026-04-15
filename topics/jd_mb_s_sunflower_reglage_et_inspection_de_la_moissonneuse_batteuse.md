@@ -8,7 +8,7 @@
 <<<<<<< Updated upstream
 ![hauteur_convoyeur](../media/hauteur_convoyeur.png?)
 =======
-![image hauteur du convoyeur](../media/hauteur_convoyeur.png?raw=true)
+![image hauteur du convoyeur](../media/hauteur_convoyeur.png?)
 >>>>>>> Stashed changes
 
 ## 2.2. Vitesse du tambour d'alimentation
