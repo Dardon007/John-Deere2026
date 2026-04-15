@@ -8,7 +8,11 @@
 
 ![hauteur_convoyeur](../media/hauteur_convoyeur.png)
 =======
+<<<<<<< Updated upstream
 ![image hauteur du convoyeur](../media/hauteur_convoyeur.png)
+=======
+![image hauteur du convoyeur](../media/hauteur_convoyeur.png?)
+>>>>>>> Stashed changes
 
 
 ## 2.2. Vitesse du tambour d'alimentation
@@ -45,7 +49,14 @@ batteurs à grand fil permettent de régler avec précision la distribution sur 
 utiliser les plaques nº 2 (BH84535).
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ![Plaque d'obturation](../media/S_plaque_obturation.png)
+=======
+![image plaque d'obturation](../media/S_plaque_obturation.png)
+>>>>>>> Stashed changes
+=======
+
+![Plaque d'obturation](../media/S_plaque_obturation.png?)
 =======
 ![image plaque d'obturation](../media/S_plaque_obturation.png)
 >>>>>>> Stashed changes
