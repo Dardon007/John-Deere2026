@@ -8,7 +8,7 @@ Le travail a été réalisé sur l'ensemble des fichiers de la culture du tourne
 
 - Ajout des espaces manquants après les ## 
 - Modification des titres pour qu'ils reflètent mieux le contenu (Pret pour la récolte pour les tournsols > Objectif de la documentation)
-- Ajout des numéros aux titres pour plus de clarté
+- Ajout des numéros aux titres pour plus de clarté et pour une meilleure navigation dans la page
 - Ajout du lien de redirection vers conseils et astuces
 - Réécriture selon le minimalisme
 - Transformation en liste à puces pour énumération de réglages
