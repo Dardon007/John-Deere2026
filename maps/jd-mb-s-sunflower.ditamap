@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Optimiser la moissonneuse-batteuse série S (tournesols)</title>
+    <title>Tournesol</title>
+    <topicref href="../topics/rapport_modifications_berthelot_charlene.md" format="markdown"/>
     <topicref href="../topics/jd_md_s_sunflower_cover_page.md" format="markdown"/>
     <topicref
         href="../topics/jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.md"
