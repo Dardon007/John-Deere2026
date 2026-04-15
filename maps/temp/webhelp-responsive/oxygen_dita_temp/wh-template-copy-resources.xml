@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project basedir="C:\Program Files\Oxygen XML Editor 28\frameworks\dita\DITA-OT\plugins\com.oxygenxml.webhelp.responsive\templates\oxygen" name="Copy template resources" default="copy-template-resources">
     <target name="copy-template-resources">
-        <mkdir dir="C:\Users\Charlène\Documents\M2 TI\S2\rédac collaborative\JD 2026\John-Deere2026\maps\out\webhelp-responsive\oxygen-webhelp\template"/>
-        <copy todir="C:\Users\Charlène\Documents\M2 TI\S2\rédac collaborative\JD 2026\John-Deere2026\maps\out\webhelp-responsive\oxygen-webhelp\template" overwrite="yes" failonerror="yes" verbose="yes">
+        <mkdir dir="C:\Users\Charlène\Pictures\John-Deere2026\maps\out\webhelp-responsive\oxygen-webhelp\template"/>
+        <copy todir="C:\Users\Charlène\Pictures\John-Deere2026\maps\out\webhelp-responsive\oxygen-webhelp\template" overwrite="yes" failonerror="yes" verbose="yes">
             <fileset dir=".">
                 <include name="oxygen-theme.css"/>
             </fileset>
