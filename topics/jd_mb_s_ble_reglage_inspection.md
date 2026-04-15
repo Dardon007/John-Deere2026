@@ -23,7 +23,7 @@ Il est recommandé d'utiliser les contre-batteurs à petit fil nº 1 et à gros 
 ### Configuration en conditions de battage difficiles :
 * Remplacez le contre-batteur du milieu par un contre-batteur à grand fil.
 
-    > Cela augmente le battage.  
+    &rarr; Cela augmente le battage.  
 
 Remarque : Les contre-batteurs à mini barre ronde nº 3 doivent uniquement être utilisés 
 dans des conditions difficiles lors de bourrages de contre-batteur, et lorsque 
@@ -83,7 +83,7 @@ Les déflecteurs supérieurs du rotor doivent être en position standard.
 | **Écartement Contre-batteur** | Sèches et faciles | 25 mm |
 | **Écartement Contre-batteur** | Normales et difficiles | 15 mm |
 
-> Ces réglages sont des points de départ. Dans des conditions de battage faciles, augmentez l'écartement du contre-batteur jusqu'à 30 mm pour préserver la qualité de paille.
+&rarr; Ces réglages sont des points de départ. Dans des conditions de battage faciles, augmentez l'écartement du contre-batteur jusqu'à 30 mm pour préserver la qualité de paille.
 
 ![Des indications sur le réglage des organes de battage](../media/S_reglages_organes_battage.png)
 
@@ -118,7 +118,7 @@ Pour plus de performances :
 | **Extension** | Terrain plat | 5 mm |
 | **Extension** | À flanc de coteau | 10 mm |
 
-> Remarque : Si vous utilisez une grille à otons hautes performance, ajoutez 2mm à l'ouverture. 
+Remarque : Si vous utilisez une grille à otons hautes performance, ajoutez 2mm à l'ouverture. 
 
 ### Grille à grains
 | Élément | Condition | Réglage |
@@ -135,7 +135,7 @@ Pour plus de performances :
 | **Régime Ventilateur** | Débit normal (7 t/ha) | 1150 tr/min |
 | **Régime Ventilateur** | Débit élevé (10 t/ha) | 1250 tr/min |
 
-> Remarque : Si vous utilisez une grille à otons hautes performance, augmentez le régime du ventilateur de 100 tr/min.
+Remarque : Si vous utilisez une grille à otons hautes performance, augmentez le régime du ventilateur de 100 tr/min.
 
 ![Illustration du fonctionnement de la grille à otons](../media/S_ouverture_grille_otons.png)
 
@@ -145,7 +145,7 @@ Réglages permettant d’optimiser le remplissage de la trémie à grain :
 
 * Couvercles de vis transversale : Position relevée.
 
-> Remarque : Abaissez les couvercles si l’humidité de la récolte est supérieure à 24 %.
+Remarque : Abaissez les couvercles si l’humidité de la récolte est supérieure à 24 %.
 
 * Déflecteur (vis de remplissage de la trémie) : Réglable pour adapter la répartition du grain.
 
@@ -162,7 +162,7 @@ L'illustration ci-dessous montre les réglages spécifiques permettant de charge
 * **ATTENTION :** Ne pas installer le couvercle sous le tambour d’alimentation n°2. Il présente un risque d’enroulement.
 
 * Ralentisseur de chute n°3 - *Configuration Premium* : Améliore la forme des andains et le séchage de la paille.
-![Les composants du système de résidus](../media/composants_r%C3%A9sidus.png)
+![Les composants du système de résidus](../media/composants_résidus.png)
 
 ## Gestion des résidus
 ### Etape 1 : Broyage des résidus
