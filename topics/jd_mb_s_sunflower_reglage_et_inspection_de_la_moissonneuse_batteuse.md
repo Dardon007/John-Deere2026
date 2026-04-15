@@ -7,12 +7,6 @@
 
 
 ![hauteur_convoyeur](../media/hauteur_convoyeur.png)
-=======
-<<<<<<< Updated upstream
-![image hauteur du convoyeur](../media/hauteur_convoyeur.png)
-=======
-![image hauteur du convoyeur](../media/hauteur_convoyeur.png?)
->>>>>>> Stashed changes
 
 
 ## 2.2. Vitesse du tambour d'alimentation
@@ -36,11 +30,8 @@ utilisé pour les petites céréales.
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
 
-<<<<<<< Updated upstream
+
 ![Contre-batteurs](../media/S_contrebatteurs.png)
-=======
-![image contre-batteurs](../media/S_contrebatteurs.png)
->>>>>>> Stashed changes
 
 Les plaques d’obturation du contre-batteur limitent le flux vers le caisson de nettoyage et en ajustent la répartition.
 
@@ -48,38 +39,21 @@ Les plaques d'obturation du contre-batteur n° 1 (BH84534) pour les contre
 batteurs à grand fil permettent de régler avec précision la distribution sur le caisson de nettoyage. En cas d'utilisation de contre-batteurs à barre ronde, 
 utiliser les plaques nº 2 (BH84535).
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 ![Plaque d'obturation](../media/S_plaque_obturation.png)
-=======
-![image plaque d'obturation](../media/S_plaque_obturation.png)
->>>>>>> Stashed changes
-=======
 
-![Plaque d'obturation](../media/S_plaque_obturation.png?)
-=======
-![image plaque d'obturation](../media/S_plaque_obturation.png)
->>>>>>> Stashed changes
 
 ## 2.4. Grilles de séparation
 
 1. Placer les entretoises de la grille nº 1 sur le rail tournesol pour maintenir les grilles en position haute et assurer un flux constant. 
 2. Utiliser les couvercles de la grille nº 2 uniquement si la répartition au caisson est inégale, afin de limiter le flux vers l’extérieur et réduire la charge.
 
-<<<<<<< Updated upstream
-![Grilles de séparation](../media/S_grilles_separation.png)
-=======
->>>>>>> Stashed changes
 
-![image grilles de séparation](../media/S_grilles_separation.png)
+![Grilles de séparation](../media/S_grilles_separation.png)
 
 ## 2.5. Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) 
 
-<<<<<<< Updated upstream
+
 ![Batteur d'otons](../media/S_batteur_otons.png)
-=======
-![image batteur d'otons](../media/S_batteur_otons.png)
->>>>>>> Stashed changes
 
 Les déflecteurs supérieurs du rotor doivent être en position standard. Il est 
 possible de les placer en position avancée uniquement pour tenter de 
