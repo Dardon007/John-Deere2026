@@ -17,15 +17,3 @@ Le travail a été réalisé sur l'ensemble des fichiers de la culture du tourne
 - Ajout de notes et avertissements
 - Clarification du texte alternatif des images 
 
-
-
-
-
-
-
-
-
-
-
-corriger et améliorer entre 20 et 30 phrases/paragraphes du contenu existant
-
