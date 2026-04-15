@@ -1,28 +1,12 @@
-# Optimisation de la moissonneuse-batteuse série S 
---- 
-##Prêt à la récolte” pour les tournesols
+## 1. Objectif de la documentation
 
-![Cover image](../media/s_sunflower_coverpage.png?raw=true)
+![image moissonneuse-batteuse](../media/s_sunflower_coverpage.png?raw=true)
 
-John Deere Werke Zweibrücken</h2>
+**John Deere Werke Zweibrücken**
 
-##Préface
+Ce manuel décrit la configuration et le réglage d'une moissonneuse-batteuse série S avant la récolte de tournesols. Il présente les composants et réglages clés pour améliorer les performances et la qualité des grains dans les conditions spécifiques à cette culture.
 
-Le contenu de ce document vise à faciliter la configuration et le 
-réglage d'une moissonneuse-batteuse série S en fonction des 
-conditions, avant la récolte de tournesols.
+Les réglages proposés sont des points de départ à affiner selon les conditions de terrain et la teneur en humidité. La section [**« Conseils et astuces »**](jd-mb-s-sunflower-conseils_astuces.md) et le système embarqué de réglage interactif (si équipé) vous aideront à les préciser.
 
-Il présente les composants et les réglages de la machine, en vue 
-d'améliorer les performances et la qualité de grains dans les 
-conditions spécifiques au tournesol. 
 
-Les réglages et les recommandations de configuration doivent être 
-considérées comme point de départ. D’autre réglages plus précis 
-devront être réalisés par la suite en fonction des conditions et de la 
-teneur en humidité de la récolte.
 
-La partie “Conseils et astuces” vous aidera à réaliser un réglage de 
-précision de la machine. Le système embarqué de réglage interactif 
-de la moissonneuse-batteuse, (si équipé) doit également être utilisé 
-pour obtenir des conseils supplémentaires de réglage de la part de la 
-machine.
