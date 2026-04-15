@@ -12,7 +12,7 @@ Titre : Pret pour la récolte pour les tournsols > Objectif de la documentation
 
 ajouter des numéros aux titres pour plus de clarté et TDM
 
-![image couverture](../media/s_sunflower_coverpage.png)
+
 
 enelver ##Préface
 
