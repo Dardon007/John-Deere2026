@@ -2,9 +2,9 @@
 <map>
    <appContext helpID="rapport-des-modifications"
                path="../topics/rapport_modifications_berthelot_charlene.html"/>
-   <appContext helpID="1-objectif-de-la-documentation"
+   <appContext helpID="1-moissonneuse-batteuse-série-s-tournesol"
                path="../topics/jd_md_s_sunflower_cover_page.html"/>
-   <appContext helpID="2-réglage-et-inspection"
+   <appContext helpID="2-composants-et-réglages"
                path="../topics/jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.html"/>
    <appContext helpID="3-conseils-et-astuces"
                path="../topics/jd-mb-s-sunflower-conseils_astuces.html"/>
