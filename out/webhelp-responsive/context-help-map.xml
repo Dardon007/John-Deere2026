@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="réglage-et-inspection-de-la-moissonneuse-batteuse"
+               path="topics/jd_mb_s_ble_reglage_inspection.html"/>
+   <appContext helpID="conseils-et-astuces"
+               path="topics/jd_mb_s_ble_conseils_astuces.html"/>
+   <appContext helpID="outils-et-liens" path="topics/jd_mb_s_ble_outils_liens.html"/>
+   <appContext helpID="optimisation-de-la-moissonneuse-batteuse-série-s"
+               path="topics/jd_md_s_sunflower_cover_page.html"/>
+   <appContext helpID="réglage-et-inspection-de-la-moissonneuse-batteuse-tournesol"
+               path="topics/jd_mb_s_sunflower_reglage_et_inspection_de_la_moissonneuse_batteuse.html"/>
+   <appContext helpID="conseils-et-astuces"
+               path="topics/jd-mb-s-sunflower-conseils_astuces.html"/>
+   <appContext helpID="réglage-et-inspection-de-la-moissonneuse-batteuse"
+               path="topics/jd_mb_s_orge_reglage_inspection.html"/>
+   <appContext helpID="conseils-et-astuces"
+               path="topics/jd_mb_s_orge_conseils_astuces.html"/>
+   <appContext helpID="outils-et-liens" path="topics/jd_mb_s_orge_outils_liens.html"/>
+   <appContext helpID="remarques" path="topics/jd_mb_s_orge_remarques.html"/>
+   <appContext helpID="rapport-de-modifications--dabo-ibrahim"
+               path="topics/Rapport%20de%20modifications_DABO_Ibrahim.html"/>
+</map>

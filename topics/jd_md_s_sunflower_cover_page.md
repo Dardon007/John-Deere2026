@@ -2,7 +2,7 @@
 --- 
 ##Prêt à la récolte” pour les tournesols
 
-![Cover image](../media/s_sunflower_coverpage.png?raw=true)
+![Cover image](../media/s_sunflower_coverpage.png)
 
 John Deere Werke Zweibrücken</h2>
 
