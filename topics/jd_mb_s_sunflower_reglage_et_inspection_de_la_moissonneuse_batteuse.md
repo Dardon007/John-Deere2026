@@ -97,6 +97,7 @@ Les grilles universelles nº 1 et nº 3 sont les plus utilisées. La grille nº 
 
 > **Note** : L'utilisation du système Active Terrain Adjustment est très avantageuse, même sur terrain légèrement vallonné pour obtenir un échantillon de trémie optimal et gérer le volume d’otons. 
 
+
 ![image reglages caisson](../media/reglage_caisson_nettoyage.png)
 
 
