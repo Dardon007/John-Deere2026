@@ -1,4 +1,5 @@
-## 1. Objectif de la documentation
+# 1. Moissonneuse-batteuse série S (tournesol)
+## 1. 1. Objectif de la documentation
 
 ![image moissonneuse-batteuse](../media/s_sunflower_coverpage.png)
 

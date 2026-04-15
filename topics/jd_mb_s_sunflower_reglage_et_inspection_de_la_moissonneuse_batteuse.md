@@ -11,11 +11,10 @@
 
 ## 2.2. Vitesse du tambour d'alimentation
 
-Basse (550 tr/min) pour les conditions normales et difficiles. Dans des 
-conditions sèches et cassantes, la vitesse peut être abaissée à 320 tr/min en 
-installant le kit BXE10741 (320 tr/min/770 tr/min) Cela permettra de réduire 
-l’endommagement de la paille et de réduire la charge du caisson. Dans les 
-conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être 
+- Conditions normales et difficiles : Basse (550 tr/min).
+- Conditions sèches et cassantes : 320 tr/min en installant le kit BXE10741 (320 tr/min/770 tr/min) Cela permettra de réduire 
+l’endommagement de la paille et de réduire la charge du caisson. 
+- Conditions sèches : le pignon à 770 tr/min du kit BXE10741 peut ensuite être 
 utilisé pour les petites céréales. 
 
 ![Vitesse_tambour](../media/S_vitesse_tambour.png)
@@ -75,6 +74,8 @@ Le rotor doit être réglé sur un régime rapide.
 ## 2.7. Composants et réglages du caisson de nettoyage 
 
 Les grilles universelles nº 1 et nº 3 sont les plus utilisées. La grille nº 2 haute performance améliore la propreté de l’échantillon et réduit la charge d’otons quand le caisson limite les performances.
+
+
 ![image grille](../media/composants_caisson_nettoyage.png)
 
 1. Régler les diviseurs des vis nº 1 pour une répartition uniforme. 
@@ -83,6 +84,8 @@ Les grilles universelles nº 1 et nº 3 sont les plus utilisées. La grille nº 
 
 
 > **Avertissement** : Ne pas utiliser l’extension nº 3 pour le tournesol.
+
+
 ![image reglage grilles](../media/S_composants_caisson_nettoyage_2.png)
 
 
@@ -96,7 +99,9 @@ Les grilles universelles nº 1 et nº 3 sont les plus utilisées. La grille nº 
 
 ![image reglages caisson](../media/reglage_caisson_nettoyage.png)
 
+
 ## 2.8 Transport du grain 
+
 
 Les couvercles de vis transversale doivent être en position relevée. Le déflecteur au niveau de la vis de remplissage de la trémie à grain peut être réglé pour modifier le chargement de la trémie à grain. La position illustrée permet de charger la trémie à grain plus à droite. 
 
@@ -106,8 +111,12 @@ Les couvercles de vis transversale doivent être en position relevée. Le défle
 ## 2.9. Réglages des composants du système de résidus
 
 1. Monter les palettes incurvées nº 1 un segment sur deux sur l’épandeur Advanced PowerCast™. 
-> **Avertissement** : Ne pas installer le couvercle nº 2 sous le tambour d’alimentation (risque d’enroulement en petites céréales). 
 2. Optionnel : Installer le ralentisseur de chute nº 3 (version Premium) pour améliorer la forme des andains et accélère le séchage.
+> **Avertissement** : Ne pas installer le couvercle nº 2 sous le tambour d’alimentation (risque d’enroulement en petites céréales). 
+
+
+
+
 ![images systeme residus](../media/composants_systeme_residus.png)
 
 
