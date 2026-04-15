@@ -5,11 +5,11 @@
 - Position du tambour avant – poignée vers le haut.
 - Vitesse du convoyeur d'alimentation – 26 dents.
 
-<<<<<<< Updated upstream
+
 ![hauteur_convoyeur](../media/hauteur_convoyeur.png?)
 =======
 ![image hauteur du convoyeur](../media/hauteur_convoyeur.png?)
->>>>>>> Stashed changes
+
 
 ## 2.2. Vitesse du tambour d'alimentation
 
@@ -35,7 +35,7 @@ l'écartement par rapport aux éléments de battage.
 <<<<<<< Updated upstream
 ![Contre-batteurs](../media/S_contrebatteurs.png?)
 =======
-![image contre-batteurs](../media/S_contrebatteurs.png?raw=true)
+![image contre-batteurs](../media/S_contrebatteurs.png?)
 >>>>>>> Stashed changes
 
 Les plaques d’obturation du contre-batteur limitent le flux vers le caisson de nettoyage et en ajustent la répartition.
@@ -47,7 +47,7 @@ utiliser les plaques nº 2 (BH84535).
 <<<<<<< Updated upstream
 ![Plaque d'obturation](../media/S_plaque_obturation.png?)
 =======
-![image plaque d'obturation](../media/S_plaque_obturation.png?raw=true)
+![image plaque d'obturation](../media/S_plaque_obturation.png?)
 >>>>>>> Stashed changes
 
 ## 2.4. Grilles de séparation
@@ -60,14 +60,14 @@ utiliser les plaques nº 2 (BH84535).
 =======
 >>>>>>> Stashed changes
 
-![image grilles de séparation](../media/S_grilles_separation.png?raw=true)
+![image grilles de séparation](../media/S_grilles_separation.png?)
 
 ## 2.5. Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) 
 
 <<<<<<< Updated upstream
 ![Batteur d'otons](../media/S_batteur_otons.png?)
 =======
-![image batteur d'otons](../media/S_batteur_otons.png?raw=true)
+![image batteur d'otons](../media/S_batteur_otons.png?)
 >>>>>>> Stashed changes
 
 Les déflecteurs supérieurs du rotor doivent être en position standard. Il est 
