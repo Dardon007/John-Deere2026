@@ -4,7 +4,7 @@
 
 Le travail a été réalisé sur l'ensemble des fichiers de la culture du tournesol.
 
-## 2. Restructuration du contenu
+## 2. Modification du contenu
 
 - Ajout des espaces manquants après les ## 
 - Modification des titres pour qu'ils reflètent mieux le contenu (Pret pour la récolte pour les tournsols > Objectif de la documentation)
