@@ -6,9 +6,9 @@
 - Vitesse du convoyeur d'alimentation – 26 dents.
 
 
-![hauteur_convoyeur](../media/hauteur_convoyeur.png?)
+![hauteur_convoyeur](../media/hauteur_convoyeur.png)
 =======
-![image hauteur du convoyeur](../media/hauteur_convoyeur.png?)
+![image hauteur du convoyeur](../media/hauteur_convoyeur.png)
 
 
 ## 2.2. Vitesse du tambour d'alimentation
@@ -20,7 +20,7 @@ l’endommagement de la paille et de réduire la charge du caisson. Dans les
 conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être 
 utilisé pour les petites céréales. 
 
-![Vitesse_tambour](../media/S_vitesse_tambour.png?)
+![Vitesse_tambour](../media/S_vitesse_tambour.png)
 
 
 ## 2.3. Contre-batteurs et plaques d'obturation
@@ -33,9 +33,9 @@ calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pou
 l'écartement par rapport aux éléments de battage. 
 
 <<<<<<< Updated upstream
-![Contre-batteurs](../media/S_contrebatteurs.png?)
+![Contre-batteurs](../media/S_contrebatteurs.png)
 =======
-![image contre-batteurs](../media/S_contrebatteurs.png?)
+![image contre-batteurs](../media/S_contrebatteurs.png)
 >>>>>>> Stashed changes
 
 Les plaques d’obturation du contre-batteur limitent le flux vers le caisson de nettoyage et en ajustent la répartition.
@@ -45,9 +45,9 @@ batteurs à grand fil permettent de régler avec précision la distribution sur 
 utiliser les plaques nº 2 (BH84535).
 
 <<<<<<< Updated upstream
-![Plaque d'obturation](../media/S_plaque_obturation.png?)
+![Plaque d'obturation](../media/S_plaque_obturation.png)
 =======
-![image plaque d'obturation](../media/S_plaque_obturation.png?)
+![image plaque d'obturation](../media/S_plaque_obturation.png)
 >>>>>>> Stashed changes
 
 ## 2.4. Grilles de séparation
@@ -56,18 +56,18 @@ utiliser les plaques nº 2 (BH84535).
 2. Utiliser les couvercles de la grille nº 2 uniquement si la répartition au caisson est inégale, afin de limiter le flux vers l’extérieur et réduire la charge.
 
 <<<<<<< Updated upstream
-![Grilles de séparation](../media/S_grilles_separation.png?)
+![Grilles de séparation](../media/S_grilles_separation.png)
 =======
 >>>>>>> Stashed changes
 
-![image grilles de séparation](../media/S_grilles_separation.png?)
+![image grilles de séparation](../media/S_grilles_separation.png)
 
 ## 2.5. Batteur d'otons et déflecteurs supérieurs réglables (suivant équipement) 
 
 <<<<<<< Updated upstream
-![Batteur d'otons](../media/S_batteur_otons.png?)
+![Batteur d'otons](../media/S_batteur_otons.png)
 =======
-![image batteur d'otons](../media/S_batteur_otons.png?)
+![image batteur d'otons](../media/S_batteur_otons.png)
 >>>>>>> Stashed changes
 
 Les déflecteurs supérieurs du rotor doivent être en position standard. Il est 
