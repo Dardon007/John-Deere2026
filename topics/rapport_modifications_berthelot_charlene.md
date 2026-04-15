@@ -2,30 +2,20 @@
 
 ## 1. Type de culture choisi
 
-Le travail a été réalisé sur la culture du tournesol.
+Le travail a été réalisé sur l'ensemble des fichiers de la culture du tournesol.
 
 ## 2. Restructuration du contenu
 
-J'ai ajouté des espaces manquants après les ## 
-
-Titre : Pret pour la récolte pour les tournsols > Objectif de la documentation
-
-ajouter des numéros aux titres pour plus de clarté et TDM
-
-
-
-enelver ##Préface
-
-ajout de lien conseils et astuce puis minimalisme
-
-topic 2: 2. Réglage et inspection de la moissonneuse-batteuse enlever moissoneuse b
-enlever "pour les tournesols." car on sait
-
-partie contrebatteurs : liste à puce et enelver "egalement" et de commenataire "généralement pas de pb", ajout d'une note
-
-contre batteur une ligne dintro
-
-grille séparation en liste comme limage
+- Ajout des espaces manquants après les ## 
+- Modification des titres pour qu'ils reflètent mieux le contenu (Pret pour la récolte pour les tournsols > Objectif de la documentation)
+- Ajout des numéros aux titres pour plus de clarté
+- Ajout du lien de redirection vers conseils et astuces
+- Réécriture selon le minimalisme
+- Transformation en liste à puces pour énumération de réglages
+- Transformation en procédure numérotée lorsque l'on recommande de faire quelque chose
+- Suppression de "pour les tournesols" car c'est déjà explicité dans le titre
+- Ajout de notes et avertissements
+- Clarification du texte alternatif des images 
 
 
 

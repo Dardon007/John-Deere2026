@@ -1,4 +1,4 @@
-# 2. Réglage et inspection
+# 2. Composants et réglages 
 
 ## 2.1. Hauteur et vitesse de la chaîne du tambour du convoyeur d'alimentation 
 
@@ -26,7 +26,7 @@ utilisé pour les petites céréales.
 - Dans des conditions de battage difficiles : 3 contre-batteurs à grand fil nº 2.
 - Dans des conditions de battage faciles : 3 contre-batteurs à barre ronde nº 3. 
 
-**Note :**  Se reporter au livret d'entretien pour la procédure de mise à niveau et le 
+> **Note :**  Se reporter au livret d'entretien pour la procédure de mise à niveau et le 
 calibrage à zéro des contre-batteurs (de l'avant à l'arrière), ainsi que pour 
 l'écartement par rapport aux éléments de battage. 
 
@@ -67,7 +67,7 @@ Le rotor doit être réglé sur un régime rapide.
 - Conditions sèches et cassantes  : Régime du rotor – 500 tr/min. 
 - Conditions de battage sèches et faciles : Écartement du contre-batteur – 30 mm. 
 
-**Note :** Ces recommandations de réglages constituent un point de départ et devront probablement être encore optimisées. Un écartement de contre-batteur allant jusqu'à 40 mm est possible dans des conditions de battage faciles.  
+> **Note :** Ces recommandations de réglages constituent un point de départ et devront probablement être encore optimisées. Un écartement de contre-batteur allant jusqu'à 40 mm est possible dans des conditions de battage faciles.  
 
 ![image organe battage](../media/S_reglages_organes_battage.png)
 

@@ -16,13 +16,13 @@
 Télécharger l'application GoHarvest pour plus d'informations sur les réglages, le calculateur de perte, JDParts, les vidéos, les procédures … 
 
 
-![site](../media/Capture%20d%27%C3%A9cran%202026-02-02%20123417.png)
+![image site GoHarvest](../media/Capture%20d%27%C3%A9cran%202026-02-02%20123417.png)
 
 Cliquer sur le lien de GoHarvest sur YouTube pour consulter des vidéos détaillées sur la procédure de mise hors tension, CombineAdvisor, Active Terrain Adjustment et bien plus encore.  
 
 (https://www.youtube.com/watch?v=3KR77OTdNKU&list=PL1KGsSJ4C Wk7jzH744F1bByhwXWAlxmFj )
 
-![image GoHarvest](../media/Capture%20d%27%C3%A9cran%202026-02-02%20123427.png)
+![image Youtube GoHarvest](../media/Capture%20d%27%C3%A9cran%202026-02-02%20123427.png)
 
 
 
