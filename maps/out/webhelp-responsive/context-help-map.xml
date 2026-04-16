@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="préface" path="../topics/jd_mb_s_orge_preface.html"/>
+   <appContext helpID="réglage-et-inspection-de-la-moissonneuse-batteuse"
+               path="../topics/jd_mb_s_orge_reglage_inspection.html"/>
+   <appContext helpID="conseils-et-astuces"
+               path="../topics/jd_mb_s_orge_conseils_astuces.html"/>
+   <appContext helpID="outils-et-liens"
+               path="../topics/jd_mb_s_orge_outils_liens.html"/>
+   <appContext helpID="remarques" path="../topics/jd_mb_s_orge_remarques.html"/>
+</map>
