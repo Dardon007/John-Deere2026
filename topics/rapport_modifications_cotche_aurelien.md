@@ -1,4 +1,4 @@
-Les sections que j'ai modifié et réécrite sont les suivantes :
+Les sections que j'ai modifiées et réécrites sont les suivantes :
 
 * Orge réglages et inspections 
 * Orge conseils et astuces
