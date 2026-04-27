@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>"Prêt à la récolte"</title>
+<map xml:lang="fr-FR">
+    <title>Réglage de la moissonneuse-batteuse – Récolte du blé</title>
     <topicref href="topics/jd_mb_s_ble_reglage_inspection.md" format="markdown">
         <topicref href="topics/%20jd_mb_s_ble_nettoyage.md" format="markdown">
             <topicref href="topics/jd_mb_s_ble_reglage_inspection_tambour.md" format="markdown"/>
@@ -25,4 +25,6 @@
     <topicref href="topics/jd_mb_s_ble_ressources.md" format="markdown">
         <topicref href="topics/jd_mb_s_ble_outils_liens.md" format="markdown"/>
     </topicref>
+    <topicref href="topics/Rapport%20de%20modifications%20%E2%80%93%20Dardon%20Alejandro.md"
+        format="markdown"/>
 </map>

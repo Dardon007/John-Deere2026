@@ -25,8 +25,8 @@ l'écartement par rapport aux éléments de battage.
 
 ## Plaques d'obturation
 
-Généralement pas nécessaire grace aux performances de battage élevées du contre
-batteur à petit fil et du rotor. 
+Généralement pas nécessaire grâce aux performances de battage élevées du contre
+-batteur à petit fil et du rotor. 
 
 Si le battage est insuffisant, installez les plaques dans l'ordre suivant, pour optimiser le traitement des otons :
 

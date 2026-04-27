@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"ressources-d238e120":{"topics":[{"title":"Outils et liens","href":"topics\/jd_mb_s_ble_outils_liens.html","attributes":{"data-id":"outils-et-liens"},"menu":{"hasChildren":false},"tocID":"outils-et-liens-d238e128","topics":[]}]}};
